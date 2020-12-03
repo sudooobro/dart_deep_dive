@@ -37,7 +37,6 @@ void main() {
     rethrow; //Rethrow is used for partially handling an exception while allowing it to propagate further
   } on Exception catch (e) {
     print(e);
-    // TODO: handle exception
   } finally {
     //final using to show anything and show its the final command and completed
     print('DONE');
