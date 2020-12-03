@@ -1,4 +1,5 @@
 import 'dart:io';
+import 'filings.dart';
 
 const allProducts = [
   Product(id: 1, name: 'apples', price: 1.60),
@@ -24,7 +25,7 @@ void main() {
     } else if (line == 'v') {
       print(cart);
     } else if (line == 'c') {
-      if(checkout(cart)){
+      if (checkOut(cart)) {
         break;
       }
     }
