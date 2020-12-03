@@ -1,0 +1,30 @@
+Error handling and exception make your code robust and improve user experience.
+
+Different kind of error:
+Some Example:
+1) Read or write files error called -> I/O Error
+2) Network request -> Networking Errors
+3) When user makes error on the code -> Programmer Error
+
+Types to handle the errors:
+1) Assertion
+2) throw exceptions
+3) try, catch, finally, rethrow
+
+Difference between error and exceptions
+Error:
+1) Programmer mistake
+2) Calling a function with invalid arguments index out of bounds etc.
+3) Programmer should terminate immediately (not safe to recover)
+
+Exception:
+1) Failure condition: Something unexpected happen
+2) Unexpected out of control
+3) Handle it (eg: show message to user and recover)
+
+Youtube Video: 
+https://www.youtube.com/watch?v=NoZde-wYGA4&ab_channel=ResoCoder (Subs to ResoCoder)
+stackoverflow questions:
+https://stackoverflow.com/questions/17315945/error-vs-exception-in-dart
+Article:
+https://medium.com/run-dart/dart-dartlang-introduction-exception-handling-f9f088906f7c

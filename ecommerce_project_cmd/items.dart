@@ -1,3 +1,5 @@
+import 'filings.dart';
+
 class Item {
   Item({required this.product, this.quantity = 1});
   final int quantity;
