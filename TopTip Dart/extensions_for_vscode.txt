@@ -1,0 +1,20 @@
+Extension you must have 
+1) Flutter
+2) Dart
+
+Good Programming Experience
+1) Bracket Pair Color 2 (Bracket Color to detect)
+2) Error Lens (Show errors in the code lines)
+3) Git Cheatsheet (Git sheet)
+4) Dracula Official (Good Theme)
+
+JSON API Testing Extension:
+1) REST Client by Huachao Mao
+
+Flutter Productivity Extension
+1) Pubspec Assist (search the dependencies from vscode and auto apply the latest)
+2) Version Lens(Extension allows you to see whether your dependencies is on the latest version)
+3) Flutter Tree(allow you to build basic widget tree with a simple syntax)
+4) Dart data class generator (allow you to create dart data classes easily, 
+   fast without writing boilerplate or running code generation)
+5) Flutter Stylizer (Dart classes in opinionated and consistant manner)
